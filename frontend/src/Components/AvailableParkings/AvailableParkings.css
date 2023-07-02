@@ -1,0 +1,10 @@
+#parking
+{
+    border-style: solid;
+    border-width: 2px;
+    border-color: #9998a3;
+    background-color: white;
+    height: 10vh;   
+    margin: 1%;
+    border-radius: 10px;
+}
